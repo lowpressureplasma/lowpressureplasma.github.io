@@ -30,4 +30,4 @@ I am a Postdoctoral Researcher at the National Institute of Standards and Techno
 I design and develop experimental platforms for both low-pressure and atmospheric-pressure plasmas, focusing on controlled, application-driven systems including ICP, CCP, hollow cathode, magnetron, and APPJ discharges. To characterize these systems, I use a comprehensive suite of plasma diagnostics — optical emission spectroscopy (OES), hot and cold Langmuir probes, and microwave diagnostic techniques — enabling detailed measurement of plasma parameters, electron energy distributions, and non-equilibrium kinetics.
 My work emphasizes translating fundamental plasma physics into practical, scalable solutions for real-world technological applications.
 
-some icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+
