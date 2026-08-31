@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-     <p>Postdoctoral Researcher</p>
+    <p>Postdoctoral Researcher</p>
     <p>National Institute of Standards and Technology</p>
     <p>Gaithersburg, MD, USA</p>
 
