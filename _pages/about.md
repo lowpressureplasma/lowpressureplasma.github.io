@@ -28,9 +28,6 @@ latest_posts:
 ---
 I am a Postdoctoral Researcher at the National Institute of Standards and Technology (NIST) in Gaithersburg, MD. My research takes a multidisciplinary approach to plasma science, combining experimental investigation, theoretical analysis, and advanced computational modeling in close collaboration with domain experts.
 I design and develop experimental platforms for both low-pressure and atmospheric-pressure plasmas, focusing on controlled, application-driven systems including ICP, CCP, hollow cathode, magnetron, and APPJ discharges. To characterize these systems, I use a comprehensive suite of plasma diagnostics — optical emission spectroscopy (OES), hot and cold Langmuir probes, and microwave diagnostic techniques — enabling detailed measurement of plasma parameters, electron energy distributions, and non-equilibrium kinetics.
-
 My work emphasizes translating fundamental plasma physics into practical, scalable solutions for real-world technological applications.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+some icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
